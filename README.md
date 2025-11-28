@@ -25,3 +25,13 @@ Employee "Jackson" added in pgAdmin
 
   <img width="680" height="367" alt="image" src="https://github.com/user-attachments/assets/ad684d39-b175-4835-a5a4-2d30c9e51f7e" />
 
+Deleting employee "Jackson"
+  <img width="1359" height="709" alt="image" src="https://github.com/user-attachments/assets/d2c763a5-79b0-4feb-9c24-c39367972f6d" />
+
+Employee "Jackson" removed from table
+  <img width="1346" height="303" alt="image" src="https://github.com/user-attachments/assets/b2baefa9-7138-448a-8f6b-50e7c8bc32e0" />
+
+Employee "Jackson" removed in pgAdmin
+  <img width="664" height="315" alt="image" src="https://github.com/user-attachments/assets/2a81e5b6-1cab-4ab9-8397-63adc16cbc81" />
+
+
