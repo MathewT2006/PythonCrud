@@ -63,7 +63,7 @@ def delete_employee(emp_id):
             try:
                 cur.execute("DELETE FROM employee WHERE id = %s", (emp_id,))
                 conn.commit()
-                if cur.countrows > 0:
+                if cur.rowcount > 0:
                     st.success("Successfully deleted employee with id: " + str(emp_id))
                 else:
                     st.warning("No employee found with the given ID: "  + str(emp_id))
