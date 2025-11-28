@@ -20,3 +20,8 @@ Adding sample employee "Jackson"
 Employee "Jackson" added to table with corresponding values
 
   <img width="1363" height="740" alt="image" src="https://github.com/user-attachments/assets/086330c6-ab7c-4521-bb9e-ae5e1d93a1b4" />
+
+Employee "Jackson" added in pgAdmin
+
+  <img width="680" height="367" alt="image" src="https://github.com/user-attachments/assets/ad684d39-b175-4835-a5a4-2d30c9e51f7e" />
+
